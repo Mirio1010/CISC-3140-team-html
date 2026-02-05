@@ -26,13 +26,14 @@ You should receive an email invitation to collaborate on this repository. Accept
 ```
 4. Move into the project folder:
 ```bash
-   cd [repository-name]
+   cd CISC-3140-TEAM-HTML
 ```
 
 ## Step 4: Create Your HTML File
 
-1. Create a new file named `yourname.html` (use your actual name, like `john.html`)
-2. Use the template below:
+1. Navigate to the `teamHtml_files` folder
+2. Create a new file named `yourname.html` (use your actual name, like `john.html`)
+3. Use the template below:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -71,7 +72,7 @@ You should receive an email invitation to collaborate on this repository. Accept
 
 2. Add your HTML file:
 ```bash
-   git add yourname.html
+   git add teamHtml_files/yourname.html
 ```
 
 3. Commit your changes with a message:
