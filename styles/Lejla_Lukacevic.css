@@ -1,0 +1,24 @@
+body {
+    font-family: Oswald;
+    display: grid;
+    place-items: start;
+    min-height: 100vh;
+    margin: 0;
+    padding:24px;
+    background-color:yellow;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 24px;
+    width: min(720px, 92vw);
+  }
+    h1, h2 {
+        display: inline-block;
+        padding-bottom: 8px;
+        background: linear-gradient(to right, black, #feca57);
+        background-size: 100% 3px;
+        background-repeat: no-repeat;
+        background-position: bottom;
+    }
