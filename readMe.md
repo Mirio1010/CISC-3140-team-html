@@ -1,5 +1,9 @@
 # CISC 3140 - Team HTML Project
 
+## 🌐 Live Page
+[Click here to view the live Home page](https://mirio1010.github.io/CISC-3140-team-html/)
+
+
 ## Getting Started Guide
 
 Hey team! This README will help you get set up and submit your HTML page. Don't worry if you're new to Git/GitHub - just follow these steps.
