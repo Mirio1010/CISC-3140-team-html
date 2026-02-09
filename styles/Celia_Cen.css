@@ -1,0 +1,79 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* background-color: #ffe5ec; */
+    text-align: center;
+}
+body{
+    background-color: #ffe5ec ;
+}
+
+.about-me {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto; 
+    padding: 20px;
+
+    background-color: #ffc2d1; 
+    border: 2px solid #ffb3c6; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    width: 200px;
+}
+
+#pokemon {
+    display: flex;
+}
+
+#pokemon div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#pokemon img {
+    border-radius: 5%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.anime {
+    display: flex;
+}
+
+.anime div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.anime img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#ski img {
+    margin-top: 40px;
+    width: 250px;
+}
+
+.cute-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto; 
+    padding: 20px;
+    
+    background-color: #ffc2d1; 
+    border: 2px solid #ffb3c6; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+  }
+
+.spotify img {
+    width: 700px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.195);
+    border-radius: 10px;
+}
+
